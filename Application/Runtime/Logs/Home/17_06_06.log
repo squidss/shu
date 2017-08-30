@@ -1,0 +1,1103 @@
+[ 2017-06-06T14:13:24+08:00 ] ::1 /shu/Home/Index/get_thumb_pics
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0391s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0034s ]
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : i in Entity, line: 262 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 268 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 270 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 275 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 277 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 282 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 284 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 286 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 287 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 288 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 291 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 292 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 294 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 307 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 309 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 319 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 320 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 321 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 327 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 328 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 330 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 332 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 333 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 334 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 335 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 336 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 337 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 338 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 339 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 343 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 345 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 354 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 356 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 358 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 361 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 362 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 366 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 368 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 376 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 378 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 380 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 383 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 384 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 386 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 393 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 395 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 397 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 404 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 405 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 406 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 407 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 408 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 409 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 410 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 411 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 412 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 416 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 418 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 420 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 421 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 423 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 443 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 446 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 448 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 450 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 451 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 452 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 456 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 457 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 458 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 460 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 461 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 463 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 464 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 465 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 479 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : i in Entity, line: 262 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 268 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 270 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 275 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 277 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 282 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 284 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 286 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 287 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 288 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 291 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 292 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 294 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 307 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 309 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 319 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 320 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 321 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 327 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 328 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 330 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 332 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 333 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 334 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 335 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 336 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 337 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 338 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 339 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 343 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 345 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 354 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 356 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 358 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 361 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 362 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 366 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 368 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 376 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 378 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 380 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 383 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 384 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 386 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 393 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 395 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 397 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 404 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 405 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 406 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 407 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 408 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 409 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 410 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 411 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 412 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 416 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 418 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 420 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 421 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 423 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 443 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 446 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 448 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 450 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 451 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 452 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 456 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 457 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 458 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 460 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 461 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 463 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 464 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 465 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 479 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+SQL: UPDATE `goods` SET `slider_pics`='array (
+  0 => \'http://2017.ycqpmall.com/attachment/images/1/2017/04/y4FF02Ba4ssN4wccobBycS009SD7nU.jpg\',
+  1 => \'http://2017.ycqpmall.com/attachment/images/1/2017/04/h3M3mZCkqCdQuYUzJzkZMcCam03CY0.jpg\',
+)' WHERE `id` = 1373 [ RunTime:0.0554s ]
+
+[ 2017-06-06T14:14:07+08:00 ] ::1 /shu/Home/Index/get_thumb_pics
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0055s ]
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : i in Entity, line: 262 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 268 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 270 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 275 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 277 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 282 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 284 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 286 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 287 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 288 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 291 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 292 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 294 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 307 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 309 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 319 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 320 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 321 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 327 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 328 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 330 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 332 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 333 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 334 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 335 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 336 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 337 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 338 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 339 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 343 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 345 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 354 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 356 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 358 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 361 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 362 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 366 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 368 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 376 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 378 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 380 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 383 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 384 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 386 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 393 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 395 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 397 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 404 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 405 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 406 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 407 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 408 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 409 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 410 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 411 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 412 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 416 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 418 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 420 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 421 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 423 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 443 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 446 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 448 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 450 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 451 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 452 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 456 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 457 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 458 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 460 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 461 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 463 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 464 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 465 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 479 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : i in Entity, line: 262 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 268 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 270 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 275 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 277 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 282 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 284 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 286 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 287 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 288 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 291 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 292 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 294 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 307 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 309 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 319 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 320 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 321 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 327 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 328 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 330 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 332 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 333 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 334 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 335 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 336 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 337 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 338 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 339 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 343 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 345 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 354 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 356 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 358 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 361 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 362 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 366 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 368 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 376 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 378 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 380 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 383 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 384 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 386 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 393 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 395 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 397 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 404 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 405 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 406 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 407 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 408 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 409 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 410 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 411 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 412 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 416 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 418 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 420 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 421 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 423 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 443 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 446 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 448 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 450 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 451 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 452 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 456 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 457 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 458 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 460 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 461 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 463 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 464 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 465 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 479 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+SQL: UPDATE `goods` SET `slider_pics`='array (
+  0 => \'http://2017.ycqpmall.com/attachment/images/1/2017/04/y4FF02Ba4ssN4wccobBycS009SD7nU.jpg\',
+  1 => \'http://2017.ycqpmall.com/attachment/images/1/2017/04/h3M3mZCkqCdQuYUzJzkZMcCam03CY0.jpg\',
+)' WHERE `id` = 1373 [ RunTime:0.0967s ]
+
+[ 2017-06-06T14:14:25+08:00 ] ::1 /shu/Home/Index/get_thumb_pics
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0048s ]
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : i in Entity, line: 262 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 268 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 270 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 275 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 277 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 282 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 284 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 286 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 287 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 288 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 291 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 292 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 294 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 307 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 309 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 319 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 320 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 321 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 327 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 328 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 330 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 332 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 333 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 334 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 335 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 336 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 337 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 338 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 339 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 343 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 345 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 354 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 356 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 358 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 361 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 362 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 366 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 368 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 376 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 378 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 380 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 383 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 384 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 386 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 393 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 395 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 397 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 404 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 405 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 406 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 407 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 408 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 409 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 410 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 411 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 412 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 416 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 418 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 420 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 421 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 423 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 443 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 446 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 448 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 450 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 451 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 452 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 456 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 457 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 458 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 460 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 461 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 463 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 464 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 465 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 479 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 176 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 177 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 222 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 226 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : i in Entity, line: 262 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 267 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 268 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 269 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 270 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 275 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 276 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 277 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 279 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 282 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 284 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 286 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 287 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 288 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 291 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 292 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 294 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 307 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: invalid element name in Entity, line: 309 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 319 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 320 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 321 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 327 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 328 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 330 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 332 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 333 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 334 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 335 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 336 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 337 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 338 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 339 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 343 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 345 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 354 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 356 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 358 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 361 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 362 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 366 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 368 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 376 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 378 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 380 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 383 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 384 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 386 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 393 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 394 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 395 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 397 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 404 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 405 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 406 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 407 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 408 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 409 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 410 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 411 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 412 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 416 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 418 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 420 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 421 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 423 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 443 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 445 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 446 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 448 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 450 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 451 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 452 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 456 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 457 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 458 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 460 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 461 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 463 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 464 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 465 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 479 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 570 G:\PHP-Demo\shu\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+SQL: UPDATE `goods` SET `slider_pics`='array (
+  0 => \'http://2017.ycqpmall.com/attachment/images/1/2017/04/y4FF02Ba4ssN4wccobBycS009SD7nU.jpg\',
+  1 => \'http://2017.ycqpmall.com/attachment/images/1/2017/04/h3M3mZCkqCdQuYUzJzkZMcCam03CY0.jpg\',
+)' WHERE `id` = 1373 [ RunTime:0.0399s ]
+
+[ 2017-06-06T14:24:32+08:00 ] ::1 /shu/Home/Index/download_logic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0092s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2017-06-06T14:36:26+08:00 ] ::1 /shu/Home/Index/download_logic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0038s ]
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/wTuuX3PqxRQ93BPjHJW3vWJBUZpU99.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/ZmovExDmcNIAI0ZGIraR6vadYF2Y12.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/BQZ0gjYmWvyVCydjccOgqaOQGp8Qdw.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Ypc01VPYGMMe17ymE08Q1cvjPJFvyw.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Ho9Kn0DjDmE4yH9Q00my0H9keSEnZs.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/SvK146mAOZoXMdXAyZa4Za9AqA89Cz.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/C1gzoOa4Zugcg10nCur22ooAcnZOiP.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Kov7Q877BEjc8oa7OVwv15VboBZ18j.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Vff7N3NXHCFN82ZHZng4gFDTGRRqxE.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/hzgJ9fnI8TqFdSt6n9i8NltDzNq3Fd.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/FXA9l6B02L0L2gs2bXSLQO2tGt0o65.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/tnU7uGlUxDWP7z2NeMzdprNgh7MNDZ.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/V767L7uhM4972PSu699M9UtPGS69HT.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/xM7x810qMhmjM3Jm3HM1d1z7437W0W.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+
+[ 2017-06-06T14:45:16+08:00 ] ::1 /shu/Home/Index/download_logic?block=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0202s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0029s ]
+NOTIC: [8] Undefined variable: circleBlock G:\PHP-Demo\shu\Application\Home\Controller\IndexController.class.php 第 108 行.
+NOTIC: [8] Undefined variable: circleBlock G:\PHP-Demo\shu\Application\Home\Controller\IndexController.class.php 第 109 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/wTuuX3PqxRQ93BPjHJW3vWJBUZpU99.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/ZmovExDmcNIAI0ZGIraR6vadYF2Y12.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/BQZ0gjYmWvyVCydjccOgqaOQGp8Qdw.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Ypc01VPYGMMe17ymE08Q1cvjPJFvyw.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Ho9Kn0DjDmE4yH9Q00my0H9keSEnZs.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/SvK146mAOZoXMdXAyZa4Za9AqA89Cz.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/C1gzoOa4Zugcg10nCur22ooAcnZOiP.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Kov7Q877BEjc8oa7OVwv15VboBZ18j.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Vff7N3NXHCFN82ZHZng4gFDTGRRqxE.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/hzgJ9fnI8TqFdSt6n9i8NltDzNq3Fd.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/FXA9l6B02L0L2gs2bXSLQO2tGt0o65.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/tnU7uGlUxDWP7z2NeMzdprNgh7MNDZ.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/V767L7uhM4972PSu699M9UtPGS69HT.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/xM7x810qMhmjM3Jm3HM1d1z7437W0W.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+
+[ 2017-06-06T14:47:53+08:00 ] ::1 /shu/Home/Index/download_logic?block=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0308s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0033s ]
+NOTIC: [8] Undefined variable: circleBlock G:\PHP-Demo\shu\Application\Home\Controller\IndexController.class.php 第 108 行.
+NOTIC: [8] Undefined variable: circleBlock G:\PHP-Demo\shu\Application\Home\Controller\IndexController.class.php 第 109 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/wTuuX3PqxRQ93BPjHJW3vWJBUZpU99.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/ZmovExDmcNIAI0ZGIraR6vadYF2Y12.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/BQZ0gjYmWvyVCydjccOgqaOQGp8Qdw.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Ypc01VPYGMMe17ymE08Q1cvjPJFvyw.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Ho9Kn0DjDmE4yH9Q00my0H9keSEnZs.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/SvK146mAOZoXMdXAyZa4Za9AqA89Cz.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/C1gzoOa4Zugcg10nCur22ooAcnZOiP.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Kov7Q877BEjc8oa7OVwv15VboBZ18j.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Vff7N3NXHCFN82ZHZng4gFDTGRRqxE.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/hzgJ9fnI8TqFdSt6n9i8NltDzNq3Fd.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/FXA9l6B02L0L2gs2bXSLQO2tGt0o65.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/tnU7uGlUxDWP7z2NeMzdprNgh7MNDZ.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/V767L7uhM4972PSu699M9UtPGS69HT.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/xM7x810qMhmjM3Jm3HM1d1z7437W0W.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+
+[ 2017-06-06T14:48:54+08:00 ] ::1 /shu/Home/Index/download_logic?block=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0032s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0028s ]
+
+[ 2017-06-06T14:50:21+08:00 ] ::1 /shu/Home/Index/download_logic?block=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0135s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0036s ]
+
+[ 2017-06-06T14:52:01+08:00 ] ::1 /shu/Home/Index/download_logic?block=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0258s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0033s ]
+NOTIC: [2] mkdir(): Invalid path G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid path G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+
+[ 2017-06-06T14:53:16+08:00 ] ::1 /shu/Home/Index/download_logic?block=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.1384s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0026s ]
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/Fg565sG6Gsa9SQm69Iu8Au96Sc82CA.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/A2ND287RaJap2WyX24r7Cz5oYNycpr.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/BFF39Vm83TlIAqv7AtW3f4ca3FxCPu.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Y0tUGl8eTjlEGdXD0J0T0VJTyLeELd.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Xy56GsYNh5N76eVwnQg7KQdy6nP5QV.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/FSG8N12Cv8V81GKN2qNmZVSKink28M.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/tc1rNwT18xWNNRT9M11h7WCW1XhMNN.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/s2O00zUfkK2PB03Ot2ORbkUx20Fb2k.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/K9w1HXWt33VWXZz3WP3ToEoHE9eGG4.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/E8xk9DA3ZAsXmxaA3dxR2ddaa2R4Ag.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/A0unEzNj35pN5eEP2P29k2M23j35u3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/D3gi4c4UN4HGjmGLPhhhL33gGHomiu.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/Bc8UCZL08IUXK1k6J68CC1diukR8oK.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/Bc8UCZL08IUXK1k6J68CC1diukR8oK.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/Bc8UCZL08IUXK1k6J68CC1diukR8oK.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/Bc8UCZL08IUXK1k6J68CC1diukR8oK.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/Bc8UCZL08IUXK1k6J68CC1diukR8oK.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/epKX3C34e06p6ddEp1c147JjJ44641.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/Bc8UCZL08IUXK1k6J68CC1diukR8oK.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/ID3818kPiNAfJCwFaAXP8wm3AXP8Ka.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment/images/sz_yi/1/2017/05/Bc8UCZL08IUXK1k6J68CC1diukR8oK.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+
+[ 2017-06-06T14:54:18+08:00 ] ::1 /shu/Home/Index/download_logic?block=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0152s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0025s ]
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/LujzZ8Ydn8kURYNHKYZUvVZyZD4h8k.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/RwTwBl3G2Wn3ZWR42zM4w4imilw32W.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/LujzZ8Ydn8kURYNHKYZUvVZyZD4h8k.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/O51RDRrfIRSI561N1f77N1rh1SzD9x.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/LujzZ8Ydn8kURYNHKYZUvVZyZD4h8k.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/f4nIULNnnivVKvQUvz8fEm9LV4EEI0.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/LujzZ8Ydn8kURYNHKYZUvVZyZD4h8k.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/BHmLSxz13958zsH8NxmSsHXSM1v5kX.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/LujzZ8Ydn8kURYNHKYZUvVZyZD4h8k.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/O8Zz1cxh0X0t4g9G0e489LG99G91mG.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment/images/sz_yi/1/2017/05/LujzZ8Ydn8kURYNHKYZUvVZyZD4h8k.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 82 行.
+NOTIC: [8] Undefined offset: 232 G:\PHP-Demo\shu\Application\Home\Controller\IndexController.class.php 第 112 行.
+NOTIC: [8] Undefined offset: 232 G:\PHP-Demo\shu\Application\Home\Controller\IndexController.class.php 第 115 行.
+
+[ 2017-06-06T14:56:20+08:00 ] ::1 /shu/Home/Index/download_logic?block=0&type=sq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003172s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0777s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0028s ]
+
+[ 2017-06-06T14:57:44+08:00 ] ::1 /shu/Home/Index/download_logic?block=0&type=sq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0033s ]
+
+[ 2017-06-06T14:58:24+08:00 ] ::1 /shu/Home/Index/download_logic?block=1&type=sq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0096s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0029s ]
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+
+[ 2017-06-06T14:58:50+08:00 ] ::1 /shu/Home/Index/download_logic?block=2&type=sq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0026s ]
+NOTIC: [2] mkdir(): Invalid path G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): Invalid path G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+
+[ 2017-06-06T14:59:30+08:00 ] ::1 /shu/Home/Index/download_logic?block=3&type=sq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0750s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0029s ]
+NOTIC: [2] mkdir(): Invalid argument G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+
+[ 2017-06-06T14:59:48+08:00 ] ::1 /shu/Home/Index/download_logic?block=4&type=sq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0270s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [2] mkdir(): No such file or directory G:\PHP-Demo\shu\Application\Home\Common\function.php 第 68 行.
+NOTIC: [8] Undefined offset: 232 G:\PHP-Demo\shu\Application\Home\Controller\IndexController.class.php 第 118 行.
+NOTIC: [8] Undefined offset: 232 G:\PHP-Demo\shu\Application\Home\Controller\IndexController.class.php 第 119 行.
+

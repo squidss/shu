@@ -1,0 +1,39 @@
+[ 2017-06-07T09:42:47+08:00 ] ::1 /shu/Home/Index/download_logic?block=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0024s ]
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/wTuuX3PqxRQ93BPjHJW3vWJBUZpU99.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/ZmovExDmcNIAI0ZGIraR6vadYF2Y12.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/BQZ0gjYmWvyVCydjccOgqaOQGp8Qdw.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Ypc01VPYGMMe17ymE08Q1cvjPJFvyw.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Ho9Kn0DjDmE4yH9Q00my0H9keSEnZs.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/SvK146mAOZoXMdXAyZa4Za9AqA89Cz.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/C1gzoOa4Zugcg10nCur22ooAcnZOiP.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Kov7Q877BEjc8oa7OVwv15VboBZ18j.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/Vff7N3NXHCFN82ZHZng4gFDTGRRqxE.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/hzgJ9fnI8TqFdSt6n9i8NltDzNq3Fd.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/FXA9l6B02L0L2gs2bXSLQO2tGt0o65.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/tnU7uGlUxDWP7z2NeMzdprNgh7MNDZ.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/V767L7uhM4972PSu699M9UtPGS69HT.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+NOTIC: [2] readfile(http://2017.ycqpmall.com/attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment//attachment/images/sz_yi/1/2017/05/xM7x810qMhmjM3Jm3HM1d1z7437W0W.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ G:\PHP-Demo\shu\Application\Home\Common\function.php 第 101 行.
+
